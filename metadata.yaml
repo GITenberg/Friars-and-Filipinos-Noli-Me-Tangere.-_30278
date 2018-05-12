@@ -1,0 +1,46 @@
+_repo: Friars-and-Filipinos-Noli-Me-Tangere.-_30278
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gannett, Frank E. (Frank Ernest)
+    alias: Gannett, Frank Ernest
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '34487'
+    url: http://www.gutenberg.org/2009/agents/34487
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal, Jose
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://www.joserizal.ph/
+    - http://en.wikipedia.org/wiki/José_Rizal
+description: ''
+gutenberg_issued: '2009-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30278'
+  lccn: '01030162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Philippines -- History -- 1812-1898 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'Friars and Filipinos
+
+  An Abridged Translation of Dr. Jose Rizal''s Tagalog Novel,
+
+  ''Noli Me Tangere.'''
+url: http://www.gutenberg.org/ebooks/30278
