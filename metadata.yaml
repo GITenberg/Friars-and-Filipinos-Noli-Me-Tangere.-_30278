@@ -25,6 +25,8 @@ creator:
     - http://www.joserizal.ph/
     - http://en.wikipedia.org/wiki/José_Rizal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30278#Friars-and-Filipinos-Noli-Me-Tangere.-
 gutenberg_issued: '2009-10-17'
 gutenberg_type: Text
 identifiers:
